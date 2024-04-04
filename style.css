@@ -1,6 +1,7 @@
 .cabeçalho {
     background-color: #300301;
     display: flex;
+    justify-content: space-around;
 }
 
 .cabeçalho-título {
