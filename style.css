@@ -11,9 +11,12 @@
 
 .cabeçalho-lista {
     color: white;
-    display: inline-block;
-}
+   }
 
 .cabeçalho-logotipo {
     width: 120px;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
 }
