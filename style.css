@@ -38,6 +38,7 @@
 .nossa-escola {
     background-image:linear-gradient(#300301 #960903);
     display: flex;
+    justify-content: center;
 }
 
 .nossa-escola-imagem {
