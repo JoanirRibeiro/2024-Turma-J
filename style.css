@@ -35,8 +35,8 @@
     margin: 0 16px;
 }
 
-section {
-    background-image:linear-gradient(#300301 #960903);
+.nossa-escola {
+    background-color: #960903;
     display: flex;
     justify-content: center;
 }
