@@ -37,13 +37,14 @@
 
 .nossa-escola {
     background-image: linear-gradient(#300301, #960903);
-    color:white;
+    color: white;
     display: flex;
     justify-content: center;
-    
+    align-items: center;
+    padding: 24px 0;
+
 }
 
 .nossa-escola-imagem {
     width: 20%;
 }
-
