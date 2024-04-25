@@ -71,6 +71,7 @@
 
 .equipe {
     background-color: #cd5f05db;
+    color: white;
 }
 
 .professor{
@@ -86,6 +87,6 @@
     padding: 16px 0;
 }
 
-.equipe-docente{
+.equipe-título{
     text-align: center;
 }
